@@ -1,32 +1,64 @@
-# 📱 Said Gallery
+<div align="center">
 
-**Said Gallery** is a modern, private, and offline-first Android gallery application built with **Kotlin** and **Jetpack Compose**.
+# 🚀 SAID DEVELOPER
 
-It is designed to provide a clean, fast, beautiful, and privacy-focused experience for managing photos and videos directly on your Android device.
+### 📱 Said Gallery
+
+**A modern, private and offline-first Android gallery application.**
+
+Built with **Kotlin** and **Jetpack Compose**
+
+---
+
+</div>
+
+## 🚀 Run and Deploy Said Gallery
+
+This repository contains the source code for **Said Gallery**, an Android gallery application developed by **Said Developer**.
+
+## 🛠️ Run Locally
+
+### Prerequisites
+
+- [Android Studio](https://developer.android.com/studio)
+- Android SDK
+- Android device or emulator
+
+### Steps
+
+1. Open **Android Studio**.
+2. Select **Open** and choose the directory containing this project.
+3. Allow Android Studio to sync Gradle and resolve the required dependencies.
+4. If the project requires Gemini API access, create a `.env` file in the project directory and configure your API key according to `.env.example`.
+5. Check the app's `build.gradle.kts` configuration before building.
+6. Connect an Android device or start an emulator.
+7. Click **Run ▶** in Android Studio.
+
+---
 
 ## ✨ Features
 
-- 🖼️ Modern photo and video gallery
+- 🖼️ Photos and videos
 - 📁 Albums and folders
-- 🔍 Search and media filtering
+- 🔍 Search and filtering
 - ❤️ Favorites
-- 📺 Full-screen media viewer
-- ↔️ Smooth left/right media navigation
-- 🔍 Pinch-to-zoom and double-tap zoom
+- 🖥️ Full-screen media viewer
+- ↔️ Swipe navigation
+- 🔎 Pinch-to-zoom and double-tap zoom
 - 🎬 Video playback
-- ℹ️ Detailed media information and metadata
-- 📋 Copy, cut, move, rename and share
-- 🗑️ Recycle Bin with restore and permanent delete
-- 🔒 Hidden Media vault
-- 🔐 App Lock with PIN/password
-- 🧬 Biometric authentication
-- 🌙 Light and Dark themes
-- 🎨 Modern Material 3 interface
-- ✨ Smooth animations and transitions
-- 🔐 Offline-first and privacy-focused
-- ⚡ Optimized for large media libraries
+- ℹ️ Media details and metadata
+- 🗑️ Recycle Bin
+- 🔐 Hidden Media
+- 🔒 App Lock
+- 🧬 Biometric security
+- 🌙 Dark mode
+- ✨ Smooth animations
+- 📴 Offline-first experience
+- 🔒 Privacy-focused media management
 
-## 🛠️ Tech Stack
+---
+
+## 🧰 Tech Stack
 
 - **Kotlin**
 - **Jetpack Compose**
@@ -34,41 +66,39 @@ It is designed to provide a clean, fast, beautiful, and privacy-focused experien
 - **Android SDK**
 - **MediaStore**
 - **Room Database**
-- **Android Biometric Authentication**
+- **Biometric Authentication**
 - **Gradle**
-
-## 🔒 Privacy
-
-Said Gallery is designed with an **offline-first** approach.
-
-Your photos and videos remain on your device. The application does not require a cloud account to browse or manage your local media.
-
-## 📱 Requirements
-
-- Android device
-- Android 8.0 (API 26) or higher
-- Storage permission for accessing local photos and videos
-
-## 🚀 Project Status
-
-**Version:** `v1.0.0`
-
-Said Gallery is currently under active development. Some advanced features may continue to be improved in future releases.
-
-## 👨‍💻 Developer
-
-**Said Developer**
-
-Graphic Designer & Android App Developer
-
-GitHub: [@saiddeveloper660](https://github.com/saiddeveloper660)
-
-## 📄 License
-
-This project is currently under development.
-
-See the repository for the latest source code and project information.
 
 ---
 
-### Made with ❤️ by Said Developer
+## 👨‍💻 Developer
+
+<div align="center">
+
+# SAID DEVELOPER
+
+**Graphic Designer • Android Developer • Creator**
+
+GitHub: [@saiddeveloper660](https://github.com/saiddeveloper660)
+
+</div>
+
+---
+
+## 📄 License
+
+Said Gallery is licensed under the **MIT License**.
+
+Copyright © 2026 Said Developer
+
+See the [LICENSE](LICENSE) file for the full license text.
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Said Developer**
+
+⭐ If you like Said Gallery, consider giving the repository a star!
+
+</div>
